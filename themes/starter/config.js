@@ -41,23 +41,23 @@ const CONFIG = {
   STARTER_FEATURE_1_TITLE_1: '免费且开源', // 特性1
   STARTER_FEATURE_1_TEXT_1: '项目源码在Github上完全开放共享，遵循MIT协议', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'https://github.com/tangly1024/NotionNext', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: 'https://soft.qqsea.top', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: '多种主题定制', // 特性2
   STARTER_FEATURE_2_TEXT_1: '数十种主题,适用于不同场景，总有一款适合你', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
   STARTER_FEATURE_2_BUTTON_URL:
-    'https://docs.tangly1024.com/article/notion-next-themes', // 特性2
+    'https://soft.qqsea.top', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: '优秀的性能', // 特性3
   STARTER_FEATURE_3_TEXT_1: '基于NextJS开发，更快的响应速度，更好的SEO', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://docs.tangly1024.com/article/next-js', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: 'https://soft.qqsea.top', // 特性3
 
   STARTER_FEATURE_4_TITLE_1: '便捷的写作体验', // 特性4
   STARTER_FEATURE_4_TEXT_1: '只需在Notion笔记中编修，自动同步到网站', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'https://docs.tangly1024.com/about', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: 'https://soft.qqsea.top', // 特性4
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
@@ -87,7 +87,7 @@ const CONFIG = {
   STARTER_PRICING_1_FEATURES: '所有的主题,免费更新,帮助手册', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_1_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
+    'https://soft.qqsea.top',
 
   STARTER_PRICING_2_TAG: '推荐',
   STARTER_PRICING_2_TITLE: '基础版',
@@ -98,7 +98,7 @@ const CONFIG = {
   STARTER_PRICING_2_FEATURES: '包含入门版,项目源码,内部社群,技术咨询,SEO优化', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_2_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
+    'https://soft.qqsea.top',
 
   STARTER_PRICING_3_TITLE: '高级版',
   STARTER_PRICING_3_PRICE: '59.9',
@@ -108,7 +108,7 @@ const CONFIG = {
   STARTER_PRICING_3_FEATURES: '包含基础版,功能定制开发', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: '立即购买',
   STARTER_PRICING_3_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
+    'https://soft.qqsea.top',
 
   // 首页用户测评区块
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
@@ -127,7 +127,7 @@ const CONFIG = {
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Ryan_G',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Ryan`Log 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://blog.gaoran.xyz/'
+      STARTER_TESTIMONIALS_ITEM_URL: 'https://soft.qqsea.top'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
@@ -136,7 +136,7 @@ const CONFIG = {
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Asenkits',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '阿森的百宝袋 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://asenkits.top/'
+      STARTER_TESTIMONIALS_ITEM_URL: 'https://soft.qqsea.top'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
@@ -145,7 +145,7 @@ const CONFIG = {
         'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6c096b44-beb9-48ee-8f92-1efdde47f3a3%2F338962f1-d352-49c7-9a1b-746e35a7005c%2Fhf.png?table=block&id=ce5a48a9-d77a-4843-a3d9-a78cd4f794ce&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: 'DWIND',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '且听风吟 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.dwind.top/'
+      STARTER_TESTIMONIALS_ITEM_URL: 'https://soft.qqsea.top'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
@@ -154,7 +154,7 @@ const CONFIG = {
         'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
       STARTER_TESTIMONIALS_ITEM_NICKNAME: '迪升disheng ',
       STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'AI资源分享 Blog',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://blog.disheng.org/'
+      STARTER_TESTIMONIALS_ITEM_URL: 'https://soft.qqsea.top'
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
@@ -183,11 +183,11 @@ const CONFIG = {
 
   STARTER_FAQ_1_QUESTION: 'NotionNext有帮助文档吗？',
   STARTER_FAQ_1_ANSWER:
-    'NotionNext提供了<a href="https://docs.tangly1024.com/about" className="underline">帮助文档</a>，操作<a href="https://www.bilibili.com/video/BV1fM4y1L7Qi/" className="underline">演示视频</a>，以及<a href="https://docs.tangly1024.com/article/chat-community" className="underline">交流社群</a>来协助您完成网站的搭建部署',
+    'NotionNext提供了<a href="https://soft.qqsea.top" className="underline">帮助文档</a>，操作<a href="https://www.bilibili.com/video/BV1fM4y1L7Qi/" className="underline">演示视频</a>，以及<a href="https://soft.qqsea.top" className="underline">交流社群</a>来协助您完成网站的搭建部署',
 
   STARTER_FAQ_2_QUESTION: '部署后要如何编写文章？',
   STARTER_FAQ_2_ANSWER:
-    '您可以在Notion中之间添加或修改类型为Post的页面，内容将被实时同步在站点中，详情参考<a className="underline" href="https://docs.tangly1024.com/article/start-to-write">《帮助文档》</a>',
+    '您可以在Notion中之间添加或修改类型为Post的页面，内容将被实时同步在站点中，详情参考<a className="underline" href="https://soft.qqsea.top">《帮助文档》</a>',
 
   STARTER_FAQ_3_QUESTION: '站点部署失败，更新失败？',
   STARTER_FAQ_3_ANSWER:
@@ -202,7 +202,7 @@ const CONFIG = {
   STARTER_TEAM_TITLE: '团队成员',
   STARTER_TEAM_TEXT_1: '我们的开发者团队',
   STARTER_TEAM_TEXT_2:
-    'NotionNext 由众多开源技术爱好者们共同合作完成，感谢每一位<a className="underline" href="https://github.com/tangly1024/NotionNext/graphs/contributors">贡献者</a>',
+    'NotionNext 由众多开源技术爱好者们共同合作完成，感谢每一位<a className="underline" href="https://soft.qqsea.top">贡献者</a>',
 
   // 这里不支持CONFIG和环境变量，需要一一修改此处代码。
   STARTER_TEAM_ITEMS: [
@@ -300,14 +300,14 @@ const CONFIG = {
       TITLE: '关于我们',
       LINK_GROUP: [
         { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: 'https://docs.tangly1024.com/about' },
+        { TITLE: '操作文档', URL: 'https://soft.qqsea.top' },
         {
           TITLE: '帮助支持',
-          URL: 'https://docs.tangly1024.com/article/how-to-question'
+          URL: 'https://soft.qqsea.top'
         },
         {
           TITLE: '合作申请',
-          URL: 'https://docs.tangly1024.com/article/my-service'
+          URL: 'https://soft.qqsea.top'
         }
       ]
     },
