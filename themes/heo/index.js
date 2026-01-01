@@ -394,7 +394,7 @@ const Layout404 = props => {
               {/* 右侧文字 */}
               <div className='error-info flex-1 flex flex-col justify-center items-center space-y-4'>
                 <h1 className='error-title font-extrabold md:text-9xl text-7xl dark:text-white'>
-                  404
+                  没有找到页面
                 </h1>
                 <div className='dark:text-white'>请尝试站内搜索寻找其它文章</div>
                 <SmartLink href='/'>
